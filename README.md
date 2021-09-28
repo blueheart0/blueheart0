@@ -1,6 +1,6 @@
 ### 👋 &nbsp;Profile 👋
 #### 🔭 &nbsp;Frontend Developer 8+ &nbsp;
-<a href="https://www.linkedin.com/in/blueheart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://www.linkedin.com/in/blueheart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=0A66C2"/>
 - Currently Working On Vatech in R.O.K.  🇰🇷 
 - Currently Learning that Making Locale Aware Product.  🏴‍☠️ 
 - I am developing using React. 🔥
