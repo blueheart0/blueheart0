@@ -1,5 +1,5 @@
-### 👋  Profile 👋
-#### 🔭  Frontend Developer 8+ 
+### 👋 &nbsp;Profile 👋
+#### 🔭 &nbsp;Frontend Developer 8+ &nbsp;<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 - Currently Working On Vatech in R.O.K.  🇰🇷 
 - Currently Learning that Making Locale Aware Product.  🏴‍☠️ 
 - I am developing using React. 🔥
