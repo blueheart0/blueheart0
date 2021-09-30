@@ -8,23 +8,32 @@
 - I am developing using React. 🔥
 
 ### Skills & Languages 🤔 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/> &nbsp; 
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#0A66C2"/> &nbsp; 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933"/> &nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
+ ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) &nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; 
 <img src="https://img.shields.io/badge/JSS-000000?style=for-the-badge&logo=JSS&logoColor=#F7DF1E"/> &nbsp;
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6"/> &nbsp;
-<img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=#CC6699"/> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/> &nbsp; 
-<img src="https://img.shields.io/badge/Material UI-000000?style=for-the-badge&logo=Material-UI&logoColor=#0081CB"/> &nbsp;
-<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=#E10098"/> &nbsp; 
-<img src="https://img.shields.io/badge/Apollo-000000?style=for-the-badge&logo=Apollo GraphQL&logoColor=#311C87"/> &nbsp;
-<img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=NGINX&logoColor=#009639"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB"/> &nbsp;
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC"/> &nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) &nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) &nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  &nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
+![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) &nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) &nbsp; 
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) &nbsp;
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) &nbsp;
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032"/> &nbsp;
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=##000000"/> &nbsp; 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) &nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) &nbsp;
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) &nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) &nbsp;
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueheart0&show_icons=true&theme=radical)
 <!--
