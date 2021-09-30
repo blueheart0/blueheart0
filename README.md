@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0094F5&height=300&section=header&text=SeungHyun%20Kim&fontSize=80&fontAlign=60&rotate=20&fontAlignY=35)
+
 ### 👋 &nbsp;Profile 👋
 #### 🔭 &nbsp;Frontend Developer 8+ &nbsp; 
 <a href="https://www.linkedin.com/in/blueheart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
