@@ -5,7 +5,7 @@
 - Currently Learning that Making Locale Aware Product.  🏴‍☠️ 
 - I am developing using React. 🔥
 
-### Skills 🤔 
+### Skills & Languages 🤔 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/> &nbsp; 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#0A66C2"/> &nbsp; 
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933"/> &nbsp; 
@@ -16,8 +16,13 @@
 <img src="https://img.shields.io/badge/Material UI-000000?style=for-the-badge&logo=Material-UI&logoColor=#0081CB"/> &nbsp;
 <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=#E10098"/> &nbsp; 
 <img src="https://img.shields.io/badge/Apollo-000000?style=for-the-badge&logo=Apollo GraphQL&logoColor=#311C87"/> &nbsp;
-<img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=NGINX&logoColor=#009639"/> &nbsp; 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032"/> &nbsp; 
+<img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=NGINX&logoColor=#009639"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB"/> &nbsp;
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC"/> &nbsp;
+
+### Tools
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=#F05032"/> &nbsp;
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=##000000"/> &nbsp; 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blueheart0&show_icons=true&theme=radical)
 <!--
